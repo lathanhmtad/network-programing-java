@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\network-programming-java\handle-number-udp2"/>
+			<item value="D:\network-programming-java\handle-number-udp"/>
+			<item value="D:\network-programming-java\get-content-website"/>
+			<item value="D:\network-programming-java\nslookup"/>
+			<item value="D:\network-programming-java\clone-casio-basic"/>
+			<item value="D:\network-programming-java\chat-console-simple"/>
+			<item value="D:\network-programming-java\chat-server-simple"/>
+			<item value="D:\network-programming-java\chat-app"/>
+		</list>
+	</section>
+</section>
